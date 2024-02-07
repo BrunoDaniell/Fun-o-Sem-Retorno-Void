@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FuncoesSemRetornoVoid", "FuncoesSemRetornoVoid.vcxproj", "{22E1537A-D729-449C-9AA7-98697298397E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22E1537A-D729-449C-9AA7-98697298397E}.Debug|x64.ActiveCfg = Debug|x64
+		{22E1537A-D729-449C-9AA7-98697298397E}.Debug|x64.Build.0 = Debug|x64
+		{22E1537A-D729-449C-9AA7-98697298397E}.Debug|x86.ActiveCfg = Debug|Win32
+		{22E1537A-D729-449C-9AA7-98697298397E}.Debug|x86.Build.0 = Debug|Win32
+		{22E1537A-D729-449C-9AA7-98697298397E}.Release|x64.ActiveCfg = Release|x64
+		{22E1537A-D729-449C-9AA7-98697298397E}.Release|x64.Build.0 = Release|x64
+		{22E1537A-D729-449C-9AA7-98697298397E}.Release|x86.ActiveCfg = Release|Win32
+		{22E1537A-D729-449C-9AA7-98697298397E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3536DEFC-FBE6-433C-8093-E0F46218A266}
+	EndGlobalSection
+EndGlobal
